@@ -1,0 +1,1 @@
+web: java -jar target/Odev1-1.0-SNAPSHOT.jar
